@@ -1,0 +1,122 @@
+{
+  "title": "Scrum Developer Open Assessment Preparation Flashcards",
+  "description": "Flashcards covering core concepts likely to appear on the Scrum.org Developer Open Assessment",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What is technical debt and how should Developers handle it in Scrum?",
+      "back": "Technical debt refers to the implied cost of additional rework caused by choosing an easy but limited solution now instead of using a better approach that would take longer. In Scrum, Developers should: 1) Make technical debt visible, 2) Include proper refactoring in their Definition of Done, 3) Address technical debt continuously rather than deferring it, and 4) Balance new features with technical improvements.",
+      "category": "Technical Excellence",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "front": "What is the relationship between the Definition of Done and technical quality?",
+      "back": "The Definition of Done ensures transparency by creating a shared understanding of what work is considered complete. It should include technical quality standards (like code review, testing, documentation) that every Increment must meet. Strong technical practices in the Definition of Done prevent technical debt accumulation and ensure each Increment is potentially releasable. Technical quality is non-negotiable; the scope may be adjusted, but quality standards in the Definition of Done must be met.",
+      "category": "Definition of Done",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "front": "What development practices contribute to maintaining a potentially releasable Increment?",
+      "back": "Practices that contribute to maintaining a potentially releasable Increment include: Continuous Integration, Test-Driven Development (TDD), automated testing (unit, integration, system), pair programming, code reviews, refactoring, clean code practices, emergent architecture, collective code ownership, and DevOps practices like automation of build, test, and deployment.",
+      "category": "Development Practices",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "front": "Who is responsible for ensuring technical quality in a Scrum Team?",
+      "back": "In Scrum, the Developers are responsible for technical quality. The Developers create the Definition of Done that includes quality standards and are accountable for adhering to it. While the Product Owner prioritizes work and the Scrum Master supports the process, the authority and responsibility for technical decisions and quality remains with the Developers.",
+      "category": "Scrum Roles",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "front": "What is the purpose of Test-Driven Development (TDD) in Scrum?",
+      "back": "Test-Driven Development (TDD) in Scrum serves to: 1) Ensure code meets requirements by writing tests first, 2) Improve design through simple implementations that satisfy tests, 3) Provide automated regression testing, 4) Create living documentation of how the system works, 5) Enable confident refactoring with test safety nets, and 6) Maintain technical quality in each Increment. TDD supports the Scrum pillar of transparency by making quality visible through passing tests.",
+      "category": "Development Practices",
+      "difficulty": "hard"
+    },
+    {
+      "id": 6,
+      "front": "How should Developers approach Product Backlog refinement?",
+      "back": "During Product Backlog refinement, Developers should: 1) Collaborate with the Product Owner to understand requirements, 2) Provide technical input on complexity, dependencies, and risks, 3) Break down items into appropriate sizes for Sprints, 4) Ensure items are clear enough to be worked on, 5) Consider technical constraints and opportunities, 6) Estimate the effort required, and 7) Discuss acceptance criteria and how items will be tested.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "front": "What is Continuous Integration and why is it important in Scrum?",
+      "back": "Continuous Integration (CI) is the practice of frequently integrating code changes into a shared repository, followed by automated building and testing. In Scrum, CI is important because it: 1) Detects integration problems early, 2) Reduces risk of deployment problems, 3) Enables the creation of a potentially releasable Increment each Sprint, 4) Improves visibility into project progress, 5) Reduces merge conflicts, and 6) Supports fast feedback on code changes.",
+      "category": "Development Practices",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "front": "What is the purpose of the Daily Scrum for Developers?",
+      "back": "For Developers, the Daily Scrum is a 15-minute event to: 1) Inspect progress toward the Sprint Goal, 2) Adapt the Sprint Backlog as needed, 3) Create a plan for the next 24 hours, 4) Identify impediments to progress, 5) Optimize team collaboration and performance, and 6) Eliminate the need for other meetings. It's not a status report but a planning meeting for Developers to synchronize activities and create a plan for the day.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "front": "How should Developers approach emergent architecture in Scrum?",
+      "back": "In Scrum, Developers should approach architecture as emergent by: 1) Focusing on delivering working features while evolving the architecture, 2) Making architecture decisions at the last responsible moment, 3) Using practices like refactoring, simple design, and SOLID principles, 4) Preferring just enough upfront design to start, 5) Continuously improving architecture based on feedback, and 6) Including architectural work in regular Sprints rather than as separate phases.",
+      "category": "Technical Excellence",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "front": "What are the key aspects of self-management that Developers should demonstrate in Scrum?",
+      "back": "Key aspects of self-management for Developers include: 1) Deciding how to turn Product Backlog items into Increments of value, 2) Creating and adhering to their own Definition of Done, 3) Holding each other accountable as professionals, 4) Organizing their own work and adapting their plan daily, 5) Taking ownership of technical decisions and quality, 6) Managing their own capacity and forecasts, and 7) Collaborating with stakeholders directly when needed.",
+      "category": "Scrum Values",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "front": "What is the purpose of Sprint Planning from a Developer's perspective?",
+      "back": "From a Developer's perspective, Sprint Planning serves to: 1) Understand the Sprint Goal proposed by the Product Owner, 2) Select Product Backlog items that contribute to the Sprint Goal, 3) Create a plan (Sprint Backlog) for delivering those items, 4) Decompose work into tasks of one day or less, 5) Identify dependencies or risks in the planned work, 6) Ensure the plan is realistic based on capacity, and 7) Commit to what can be accomplished in the Sprint.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "front": "How do Developers ensure product quality in Scrum?",
+      "back": "Developers ensure product quality by: 1) Creating and adhering to a comprehensive Definition of Done, 2) Using technical practices like TDD, continuous integration, and pair programming, 3) Automating tests at multiple levels (unit, integration, system), 4) Conducting code reviews and refactoring regularly, 5) Not compromising quality when under pressure, 6) Building quality in from the start rather than testing it later, and 7) Creating potentially releasable Increments every Sprint.",
+      "category": "Technical Excellence",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "front": "What is the role of cross-functionality in the Development Team?",
+      "back": "Cross-functionality means the Development Team has all the skills needed to create value each Sprint. Benefits include: 1) No dependencies on people outside the team, 2) Ability to complete work end-to-end, 3) Shared responsibility for all work, 4) Increased flexibility in task assignment, 5) Reduced bottlenecks, 6) Better knowledge sharing, and 7) Improved ability to deliver a complete Increment. Cross-functionality doesn't mean every person has all skills, but the team collectively has all required skills.",
+      "category": "Scrum Team",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "front": "What is the relationship between the Sprint Backlog and the Definition of Done?",
+      "back": "The Sprint Backlog is the Developers' plan for delivering Product Backlog items in the Sprint and achieving the Sprint Goal. The Definition of Done is the quality standard that each Increment must meet. The relationship is: 1) The Sprint Backlog should include all work needed to meet the Definition of Done, 2) Tasks like testing, documentation, and quality checks from the Definition of Done should be explicitly included in the Sprint Backlog, 3) The Sprint Backlog is complete only when it accounts for all Definition of Done requirements.",
+      "category": "Scrum Artifacts",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "front": "What is the importance of transparency in technical work for Developers?",
+      "back": "Transparency in technical work means: 1) Making progress visible through working software, 2) Communicating honestly about technical challenges, 3) Making technical debt visible, 4) Ensuring code quality is apparent through metrics and practices, 5) Having clear Definition of Done criteria that everyone understands, 6) Providing regular demonstrations of working functionality, and 7) Maintaining visible information radiators about technical status. This supports inspection and adaptation, enabling better decision-making.",
+      "category": "Scrum Pillars",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-05-05",
+    "totalCards": 15,
+    "categories": ["Technical Excellence", "Definition of Done", "Development Practices", "Scrum Roles", "Product Backlog", "Scrum Events", "Scrum Values", "Scrum Team", "Scrum Artifacts", "Scrum Pillars"],
+    "references": [
+      "The Scrum Guide (2020 version)",
+      "Professional Scrum Developer learning objectives",
+      "Scrum.org assessment preparation materials"
+    ]
+  }
+}
