@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flashcards</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div id="card-box" class="card">
+      <div id="card-text">Loading...</div>
+    </div>
+    <div class="buttons">
+      <button onclick="markAnswer(true)">✔ I got it</button>
+      <button onclick="markAnswer(false)">✘ Not Yet</button>
+    </div>
+    <div id="progress"></div>
+  </div>
+
+  <script>
+    let showingAnswer = false;
+    let currentCard = {};
+
+    function loadCard() {
+      fetch('/card')
+        .then(res => res.json())
+        .then(data => {
+          if (data.done) {
+            window.location.href = "/score";
+          } else {
+            showingAnswer = false;
+            currentCard = data;
+            document.getElementById('card-text').textContent = currentCard.question;
+            document.getElementById('progress').textContent = `Card ${data.index} of ${data.total}`;
+          }
+        });
+    }
+
+    function markAnswer(correct) {
+      if (!showingAnswer) {
+        document.getElementById('card-text').textContent = currentCard.answer;
+        showingAnswer = true;
+      } else {
+        fetch('/answer', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({ correct })
+        }).then(() => loadCard());
+      }
+    }
+
+    window.onload = loadCard;
+  </script>
+</body>
+</html>
