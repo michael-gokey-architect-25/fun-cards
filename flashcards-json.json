@@ -1,0 +1,117 @@
+{
+  "title": "General Knowledge Flashcards",
+  "description": "A set of general knowledge flashcards for a card flipping game",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What is the capital of France?",
+      "back": "Paris",
+      "category": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "front": "Who wrote 'Romeo and Juliet'?",
+      "back": "William Shakespeare",
+      "category": "Literature",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "front": "What is the chemical symbol for gold?",
+      "back": "Au",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "front": "What is the largest planet in our solar system?",
+      "back": "Jupiter",
+      "category": "Astronomy",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "front": "What is the square root of 144?",
+      "back": "12",
+      "category": "Mathematics",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "front": "Which element has the atomic number 1?",
+      "back": "Hydrogen",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "front": "Who painted the Mona Lisa?",
+      "back": "Leonardo da Vinci",
+      "category": "Art",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "front": "What's the largest ocean on Earth?",
+      "back": "Pacific Ocean",
+      "category": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "front": "What year did World War II end?",
+      "back": "1945",
+      "category": "History",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "front": "What is the capital of Japan?",
+      "back": "Tokyo",
+      "category": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "front": "Who is known as the father of modern physics?",
+      "back": "Albert Einstein",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "front": "Which planet is known as the Red Planet?",
+      "back": "Mars",
+      "category": "Astronomy",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "front": "What is the longest river in the world?",
+      "back": "Nile",
+      "category": "Geography",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "front": "Who wrote '1984'?",
+      "back": "George Orwell",
+      "category": "Literature",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "front": "What is the largest mammal on Earth?",
+      "back": "Blue Whale",
+      "category": "Biology",
+      "difficulty": "easy"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-05-05",
+    "totalCards": 15,
+    "categories": ["Geography", "Literature", "Science", "Astronomy", "Mathematics", "Art", "History", "Biology"]
+  }
+}

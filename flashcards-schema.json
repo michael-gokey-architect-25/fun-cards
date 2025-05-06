@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Flashcards",
+  "description": "Schema for flashcards in a card flipping game",
+  "type": "object",
+  "required": ["title", "cards"],
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the flashcard set"
+    },
+    "description": {
+      "type": "string",
+      "description": "A description of the flashcard set"
+    },
+    "cards": {
+      "type": "array",
+      "description": "The list of flashcards",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "front", "back"],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "description": "Unique identifier for the card",
+            "minimum": 1
+          },
+          "front": {
+            "type": "string",
+            "description": "The question or prompt on the front of the card"
+          },
+          "back": {
+            "type": "string",
+            "description": "The answer or information on the back of the card"
+          },
+          "category": {
+            "type": "string",
+            "description": "The subject category of the card"
+          },
+          "difficulty": {
+            "type": "string",
+            "description": "The difficulty level of the card",
+            "enum": ["easy", "medium", "hard"]
+          },
+          "hints": {
+            "type": "array",
+            "description": "Optional hints for the card",
+            "items": {
+              "type": "string"
+            }
+          },
+          "imageUrl": {
+            "type": "string",
+            "description": "Optional URL to an image for the card",
+            "format": "uri"
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional information about the flashcard set",
+      "properties": {
+        "version": {
+          "type": "string",
+          "description": "Version of the flashcard set"
+        },
+        "created": {
+          "type": "string",
+          "description": "Creation date of the flashcard set",
+          "format": "date"
+        },
+        "totalCards": {
+          "type": "integer",
+          "description": "Total number of cards in the set"
+        },
+        "categories": {
+          "type": "array",
+          "description": "List of all categories in the set",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
