@@ -1,0 +1,370 @@
+{
+  "title": "The 2020 Scrum Guide Flashcards",
+  "description": "A comprehensive set of flashcards covering key concepts from the 2020 Scrum Guide for PSM I certification preparation",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What is Scrum?",
+      "back": "Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. It requires a Scrum Master to foster an environment where: (1) A Product Owner orders work in a Product Backlog, (2) The Scrum Team turns a selection of work into an Increment of value during a Sprint, (3) The Scrum Team and stakeholders inspect the results and adjust for the next Sprint, (4) Repeat.",
+      "category": "Fundamentals",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "front": "What are the three pillars of empirical process control in Scrum?",
+      "back": "Transparency, Inspection, and Adaptation.",
+      "category": "Fundamentals",
+      "difficulty": "easy",
+      "hints": ["These pillars enable the empirical Scrum approach"]
+    },
+    {
+      "id": 3,
+      "front": "What are the five Scrum values?",
+      "back": "Commitment, Focus, Openness, Respect, and Courage.",
+      "category": "Fundamentals",
+      "difficulty": "easy",
+      "hints": ["Think about what makes a good team culture"]
+    },
+    {
+      "id": 4,
+      "front": "Who are the members of a Scrum Team?",
+      "back": "A Scrum Team consists of one Scrum Master, one Product Owner, and Developers. There are no sub-teams or hierarchies within a Scrum Team.",
+      "category": "Scrum Team",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "front": "What is the recommended size of a Scrum Team?",
+      "back": "Scrum Teams are typically 10 or fewer people. Small enough to remain nimble and large enough to complete significant work within a Sprint.",
+      "category": "Scrum Team",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "front": "What are the responsibilities of the Product Owner?",
+      "back": "The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. This includes developing and explicitly communicating the Product Goal, creating and clearly communicating Product Backlog items, ordering Product Backlog items, and ensuring that the Product Backlog is transparent, visible, and understood.",
+      "category": "Roles",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "front": "What are the responsibilities of the Scrum Master?",
+      "back": "The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization. The Scrum Master is accountable for the Scrum Team's effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.",
+      "category": "Roles",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "front": "What are the responsibilities of Developers in Scrum?",
+      "back": "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint. Their responsibilities include: creating a plan for the Sprint (the Sprint Backlog), instilling quality by adhering to a Definition of Done, adapting their plan each day toward the Sprint Goal, and holding each other accountable as professionals.",
+      "category": "Roles",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "front": "What is a Sprint?",
+      "back": "Sprints are the heartbeat of Scrum, where ideas are turned into value. They are fixed-length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.",
+      "category": "Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "front": "What are the 5 events in Scrum?",
+      "back": "The Sprint (container event), Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.",
+      "category": "Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "front": "What happens during Sprint Planning and what are the three topics to address?",
+      "back": "Sprint Planning initiates the Sprint by laying out the work to be performed. The three topics to address are: (1) Why is this Sprint valuable? (2) What can be Done this Sprint? (3) How will the chosen work get done?",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "front": "What is the purpose of the Daily Scrum?",
+      "back": "The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work. It's a 15-minute event for the Developers of the Scrum Team.",
+      "category": "Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "front": "What is the purpose of the Sprint Review?",
+      "back": "The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "front": "What is the purpose of the Sprint Retrospective?",
+      "back": "The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness. The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. The team discusses what went well, what problems it encountered, and how those problems were (or were not) solved.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "front": "What are the three Scrum artifacts?",
+      "back": "Product Backlog, Sprint Backlog, and Increment.",
+      "category": "Artifacts",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "front": "What is the Product Backlog?",
+      "back": "The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.",
+      "category": "Artifacts",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "front": "What is the Sprint Backlog?",
+      "back": "The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "front": "What is an Increment?",
+      "back": "An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "front": "What is the Definition of Done?",
+      "back": "The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product. When a Product Backlog item meets the Definition of Done, an Increment is born.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "front": "What is a Product Goal?",
+      "back": "The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define 'what' will fulfill the Product Goal.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 21,
+      "front": "What is a Sprint Goal?",
+      "back": "The Sprint Goal is the single objective for the Sprint. It creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives. The Sprint Goal is created during Sprint Planning and then added to the Sprint Backlog.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 22,
+      "front": "What does it mean that Scrum is 'lightweight'?",
+      "back": "Scrum is lightweight because it has minimal required components, just enough to implement the Scrum theory of empirical process control and enable the five values. It prescribes only what is absolutely necessary, removing impediments between goals and their achievement.",
+      "category": "Fundamentals",
+      "difficulty": "medium"
+    },
+    {
+      "id": 23,
+      "front": "What is the maximum duration of a Sprint?",
+      "back": "The maximum duration of a Sprint is one month. Most commonly, Sprints are shorter than this maximum duration, often 2-3 weeks.",
+      "category": "Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "front": "Can a Sprint be cancelled?",
+      "back": "Yes, a Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "front": "What is the maximum time-box for Sprint Planning?",
+      "back": "Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 26,
+      "front": "What is the time-box for the Daily Scrum?",
+      "back": "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team.",
+      "category": "Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 27,
+      "front": "What is the maximum time-box for the Sprint Review?",
+      "back": "The Sprint Review is a time-boxed event of a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 28,
+      "front": "What is the maximum time-box for the Sprint Retrospective?",
+      "back": "The Sprint Retrospective is a time-boxed event of a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 29,
+      "front": "Who is responsible for managing the Product Backlog?",
+      "back": "The Product Owner is responsible for managing the Product Backlog, which includes developing and explicitly communicating the Product Goal, creating and clearly communicating Product Backlog items, ordering Product Backlog items, and ensuring the Product Backlog is transparent, visible, and understood.",
+      "category": "Roles",
+      "difficulty": "easy"
+    },
+    {
+      "id": 30,
+      "front": "What is Product Backlog refinement?",
+      "back": "Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details such as a description, order, and size. Attributes often vary with the domain of work.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 31,
+      "front": "Who participates in the Daily Scrum?",
+      "back": "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 32,
+      "front": "Can there be multiple Product Owners for a product?",
+      "back": "No. The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog.",
+      "category": "Roles",
+      "difficulty": "medium"
+    },
+    {
+      "id": 33,
+      "front": "What is the relationship between the Definition of Done and an Increment?",
+      "back": "The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product. The moment a Product Backlog item meets the Definition of Done, an Increment is born.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 34,
+      "front": "What happens if the Definition of Done is part of the organization's standards?",
+      "back": "If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.",
+      "category": "Artifacts",
+      "difficulty": "hard"
+    },
+    {
+      "id": 35,
+      "front": "How does the Scrum Master serve the organization?",
+      "back": "The Scrum Master serves the organization by: leading, training, and coaching the organization in its Scrum adoption; planning and advising Scrum implementations within the organization; helping employees and stakeholders understand and enact an empirical approach for complex work; and removing barriers between stakeholders and Scrum Teams.",
+      "category": "Roles",
+      "difficulty": "hard"
+    },
+    {
+      "id": 36,
+      "front": "How does the Scrum Master serve the Product Owner?",
+      "back": "The Scrum Master serves the Product Owner by: helping find techniques for effective Product Goal definition and Product Backlog management; helping establish empirical product planning; facilitating stakeholder collaboration; and removing barriers between stakeholders and the Scrum Team.",
+      "category": "Roles",
+      "difficulty": "hard"
+    },
+    {
+      "id": 37,
+      "front": "How does the Scrum Master serve the Scrum Team?",
+      "back": "The Scrum Master serves the Scrum Team by: coaching members in self-management and cross-functionality; helping focus on creating high-value Increments that meet the Definition of Done; removing impediments to progress; and ensuring all Scrum events take place and are positive, productive, and kept within the timebox.",
+      "category": "Roles",
+      "difficulty": "hard"
+    },
+    {
+      "id": 38,
+      "front": "What are the key characteristics of Developers in a Scrum Team?",
+      "back": "Developers are always accountable as a team. They are structured and empowered by the organization to manage their own work. They are cross-functional, with all the skills necessary to create value each Sprint. They are self-managing, meaning they internally decide who does what, when, and how.",
+      "category": "Roles",
+      "difficulty": "medium"
+    },
+    {
+      "id": 39,
+      "front": "What is the only required outcome of Sprint Planning?",
+      "back": "The only required outcome of Sprint Planning is that the Scrum Team has confidence that they have selected enough work to achieve the Sprint Goal, created an actionable plan, and are ready to start the Sprint.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 40,
+      "front": "What commitment is associated with the Product Backlog?",
+      "back": "The Product Goal is the commitment for the Product Backlog.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 41,
+      "front": "What commitment is associated with the Sprint Backlog?",
+      "back": "The Sprint Goal is the commitment for the Sprint Backlog.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "front": "What commitment is associated with the Increment?",
+      "back": "The Definition of Done is the commitment for the Increment.",
+      "category": "Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 43,
+      "front": "What can be changed during a Sprint?",
+      "back": "The Sprint Backlog can be refined as more is learned. The scope may be clarified and renegotiated with the Product Owner as more is learned. However, the Sprint Goal should remain stable.",
+      "category": "Events",
+      "difficulty": "hard"
+    },
+    {
+      "id": 44,
+      "front": "How should Daily Scrum be structured?",
+      "back": "The Developers can select whatever structure and techniques they want for the Daily Scrum, as long as it focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 45,
+      "front": "Who should attend the Sprint Review?",
+      "back": "The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation. The entire Scrum Team and stakeholders attend the Sprint Review, and anyone who can provide feedback on the Increment.",
+      "category": "Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 46,
+      "front": "What is the purpose of the Product Goal?",
+      "back": "The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. It is the long-term objective for the Scrum Team, and they must fulfill (or abandon) one objective before taking on the next.",
+      "category": "Artifacts",
+      "difficulty": "hard"
+    },
+    {
+      "id": 47,
+      "front": "What is empiricism in Scrum?",
+      "back": "Empiricism means making decisions based on what is observed and experienced rather than detailed upfront planning. Scrum combines empiricism and lean thinking, focusing on optimizing predictability and controlling risk through the transparent inspection and adaptation of artifacts.",
+      "category": "Fundamentals",
+      "difficulty": "hard"
+    },
+    {
+      "id": 48,
+      "front": "What happens if the Sprint work is completed before the end of the Sprint?",
+      "back": "If the Sprint work is completed before the end of the Sprint, the Scrum Team can select more items from the Product Backlog if they have capacity. The expected quality doesn't decrease, and more work is only brought in if the team has capacity and can maintain the same quality standards.",
+      "category": "Events",
+      "difficulty": "hard"
+    },
+    {
+      "id": 49,
+      "front": "When can multiple Increments be created within a single Sprint?",
+      "back": "Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.",
+      "category": "Artifacts",
+      "difficulty": "hard"
+    },
+    {
+      "id": 50,
+      "front": "What happens if the Definition of Done is not met?",
+      "back": "If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.",
+      "category": "Artifacts",
+      "difficulty": "hard"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-05-05",
+    "totalCards": 50,
+    "categories": [
+      "Fundamentals",
+      "Scrum Team",
+      "Roles",
+      "Events",
+      "Artifacts"
+    ]
+  }
+}

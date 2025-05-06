@@ -1,0 +1,87 @@
+{
+  "title": "Shu Ha Ri in Agile & Scrum Master Coaching",
+  "description": "Flashcards covering the concept of Shu Ha Ri in agile software development and effective Scrum master coaching techniques",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What is the concept of Shu Ha Ri in agile software development?",
+      "back": "Shu Ha Ri is a Japanese martial arts concept adopted in agile that describes the stages of learning to mastery: Shu (follow the rules), Ha (break the rules), and Ri (transcend the rules). It represents the journey from disciplined adherence to creative adaptation to intuitive innovation.",
+      "category": "Fundamental Concepts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "front": "What characterizes the 'Shu' stage in agile team development?",
+      "back": "In the 'Shu' stage, teams strictly follow prescribed practices and processes without deviation. They learn the fundamental rules, ceremonies, and roles of agile frameworks like Scrum. Teams need clear guidance, detailed instructions, and consistent coaching from Scrum Masters to build their foundation.",
+      "category": "Learning Stages",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "front": "How should a Scrum Master coach a team in the 'Ha' stage?",
+      "back": "In the 'Ha' stage, a Scrum Master should encourage thoughtful experimentation while maintaining core principles. They should ask powerful questions rather than provide answers, facilitate retrospectives focused on process innovation, validate that deviations serve team effectiveness, and help the team reflect on both successful and failed experiments.",
+      "category": "Coaching Techniques",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "front": "What are the signs that a team has reached the 'Ri' stage of agile maturity?",
+      "back": "Signs of the 'Ri' stage include: the team intuitively adapts practices to context without conscious deliberation; they can explain why certain approaches work in their context; they innovate new practices that align with agile principles; they coach other teams effectively; they remain open to continuous improvement; and they focus on delivering customer value rather than following processes.",
+      "category": "Team Assessment",
+      "difficulty": "hard"
+    },
+    {
+      "id": 5,
+      "front": "What coaching approach is most effective for teams transitioning from 'Shu' to 'Ha'?",
+      "back": "For teams transitioning from 'Shu' to 'Ha', Scrum Masters should gradually shift from directive to consultative coaching. This includes encouraging questions about the 'why' behind practices, introducing controlled experiments with clear success criteria, providing a safety net for failure, facilitating deeper retrospectives, and connecting team decisions to agile principles rather than just practices.",
+      "category": "Coaching Techniques",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "front": "How does understanding Shu Ha Ri influence how organizations should approach agile transformations?",
+      "back": "Understanding Shu Ha Ri suggests that organizations should: start with standardized practices to build foundations; expect and plan for different maturity levels across teams; avoid forcing advanced teams back to rigid practices; create communities of practice to share innovations; adjust governance as teams mature; and recognize that transformation is a journey through stages, not an immediate leap to innovation.",
+      "category": "Organizational Change",
+      "difficulty": "hard"
+    },
+    {
+      "id": 7,
+      "front": "What are the pitfalls of misapplying Shu Ha Ri in agile coaching?",
+      "back": "Common pitfalls include: pushing teams to 'Ha' before they've mastered basics; keeping high-performing teams in 'Shu' too long; using it as an excuse for inconsistency without purpose; assuming all teams progress at the same pace; confusing chaotic behavior with 'Ri' stage innovation; and failing to recognize that different team members may be at different stages simultaneously.",
+      "category": "Common Challenges",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "front": "How can a Scrum Master assess which Shu Ha Ri stage a team is in?",
+      "back": "A Scrum Master can assess a team's stage by evaluating: their understanding of the 'why' behind practices; their ability to deliver consistently; how they handle impediments; the depth of their retrospectives; their relationship with processes (following vs. adapting); their focus (process execution vs. delivering value); and their ability to coach others on agile concepts.",
+      "category": "Team Assessment",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "front": "What is the relationship between psychological safety and progression through the Shu Ha Ri stages?",
+      "back": "Psychological safety is essential for Shu Ha Ri progression. In 'Shu', it allows team members to admit what they don't understand. In 'Ha', it creates the confidence to experiment and potentially fail. In 'Ri', it supports challenging established norms and innovating freely. Without psychological safety, teams often remain stuck in mechanical 'Shu' regardless of their technical capability.",
+      "category": "Team Dynamics",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "front": "How does a Scrum Master's role evolve across the Shu Ha Ri stages?",
+      "back": "The Scrum Master evolves from a teacher/enforcer in 'Shu' (providing structure, teaching practices, correcting deviations) to a mentor/guide in 'Ha' (asking questions, suggesting experiments, connecting principles to practices) to a consultant/advisor in 'Ri' (occasionally offering different perspectives, connecting the team with broader organizational needs, and helping remove systemic impediments).",
+      "category": "Scrum Master Role",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-05-05",
+    "totalCards": 10,
+    "categories": ["Fundamental Concepts", "Learning Stages", "Coaching Techniques", "Team Assessment", "Organizational Change", "Common Challenges", "Team Dynamics", "Scrum Master Role"],
+    "references": [
+      "Alistair Cockburn's adaptation of Shu Ha Ri for software development",
+      "The Scrum Guide",
+      "Coaching Agile Teams by Lyssa Adkins"
+    ]
+  }
+}

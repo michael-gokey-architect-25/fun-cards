@@ -1,0 +1,82 @@
+{
+  "title": "Computer Science Flashcards",
+  "description": "A set of computer science concept flashcards",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What is a data structure?",
+      "back": "A data structure is a particular way of organizing data in a computer so that it can be used effectively.",
+      "category": "Fundamentals",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "front": "What is Big O notation?",
+      "back": "Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.",
+      "category": "Algorithms",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "front": "What is recursion?",
+      "back": "Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem.",
+      "category": "Programming",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "front": "What is object-oriented programming?",
+      "back": "A programming paradigm based on the concept of 'objects', which can contain data and code. The data is in the form of fields, and the code is in the form of procedures.",
+      "category": "Programming",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "front": "What is a binary search tree?",
+      "back": "A binary tree data structure where each node has at most two children, and for each node, all elements in the left subtree are less than the node, and all elements in the right subtree are greater.",
+      "category": "Data Structures",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "front": "What is a hash table?",
+      "back": "A data structure that implements an associative array abstract data type, a structure that can map keys to values using a hash function.",
+      "category": "Data Structures",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "front": "What is an API?",
+      "back": "Application Programming Interface - a set of definitions and protocols for building and integrating application software.",
+      "category": "Software Engineering",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "front": "What is the difference between stack and heap memory?",
+      "back": "Stack is used for static memory allocation and heap for dynamic memory allocation. Stack is managed automatically while heap requires manual management.",
+      "category": "Computer Architecture",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "front": "What is a RESTful API?",
+      "back": "An API that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.",
+      "category": "Web Development",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "front": "What is SQL injection?",
+      "back": "A code injection technique used to attack data-driven applications by inserting malicious SQL statements into entry fields for execution.",
+      "category": "Cybersecurity",
+      "difficulty": "hard"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-05-05",
+    "totalCards": 10,
+    "categories": ["Fundamentals", "Algorithms", "Programming", "Data Structures", "Software Engineering", "Computer Architecture", "Web Development", "Cybersecurity"]
+  }
+}

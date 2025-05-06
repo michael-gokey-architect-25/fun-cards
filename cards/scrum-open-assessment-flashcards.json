@@ -1,0 +1,122 @@
+{
+  "title": "Scrum.org Open Assessment Preparation Flashcards",
+  "description": "Flashcards covering core Scrum concepts likely to appear on the Scrum.org Open Assessment",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What are the three pillars of empirical process control in Scrum?",
+      "back": "The three pillars of empirical process control in Scrum are transparency, inspection, and adaptation.",
+      "category": "Scrum Theory",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "front": "Who is responsible for maximizing the value of the product resulting from the work of the Scrum Team?",
+      "back": "The Product Owner is responsible for maximizing the value of the product resulting from the work of the Scrum Team.",
+      "category": "Scrum Roles",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "front": "What is the maximum recommended size of a Development Team in Scrum?",
+      "back": "The Development Team should be small enough to remain nimble and large enough to complete significant work within a Sprint. The Scrum Guide recommends fewer than 10 people (typically 3-9 developers).",
+      "category": "Scrum Team",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "front": "Who is responsible for ensuring Scrum is understood and enacted?",
+      "back": "The Scrum Master is responsible for ensuring that Scrum is understood and enacted. They do this by helping everyone understand Scrum theory, practices, rules, and values.",
+      "category": "Scrum Roles",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "front": "What happens if the Sprint Goal becomes obsolete during a Sprint?",
+      "back": "If the Sprint Goal becomes obsolete, the Sprint may be cancelled. Only the Product Owner has the authority to cancel the Sprint, although they may do so under influence from stakeholders, the Development Team, or the Scrum Master.",
+      "category": "Sprint",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "front": "What are the mandatory events in Scrum?",
+      "back": "The mandatory events in Scrum are: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, and the Sprint itself (which contains all other events).",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "front": "Who must attend the Daily Scrum?",
+      "back": "The Development Team must attend the Daily Scrum. The Scrum Master ensures that the event takes place, but the Development Team is responsible for conducting it. The Product Owner and Scrum Master may attend but are not required to.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "front": "Who is responsible for the Product Backlog?",
+      "back": "The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering. While the Product Owner may delegate the work of creating and refining Product Backlog items, they remain accountable.",
+      "category": "Scrum Artifacts",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "front": "What is the purpose of the Sprint Retrospective?",
+      "back": "The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness by inspecting how the last Sprint went with regards to people, relationships, process, and tools; identifying what went well and potential improvements; and creating a plan for implementing improvements to the way the Scrum Team does its work.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "front": "What is the time-box for Sprint Planning?",
+      "back": "Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter (proportionally). For example, a two-week Sprint would have a four-hour time-box for Sprint Planning.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "front": "How should Product Backlog items be refined?",
+      "back": "Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate. Items are reviewed and revised, and higher ordered Product Backlog items are usually clearer and more detailed than lower ordered ones.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "front": "What is the Definition of Done?",
+      "back": "The Definition of Done is a shared understanding of what it means for work to be complete, ensuring transparency. It is used to assess when work is complete on the product Increment. If the Definition of Done for an increment is part of the organization's standards, all Scrum Teams must follow it as a minimum. If it's not an organizational standard, the Scrum Team must create one appropriate for the product.",
+      "category": "Scrum Artifacts",
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "front": "Who creates the Sprint Backlog?",
+      "back": "The Development Team creates the Sprint Backlog during Sprint Planning. The Sprint Backlog includes the selected Product Backlog items and a plan for delivering them, typically in the form of decomposed tasks and the associated effort estimates.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "front": "What is the primary purpose of the Sprint Review?",
+      "back": "The primary purpose of the Sprint Review is to inspect the Increment and adapt the Product Backlog if needed. The Scrum Team and stakeholders collaborate on what was done in the Sprint and based on that plus any changes to the Product Backlog, attendees collaborate on what could be done next to optimize value.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "front": "What is self-organization in the context of Scrum?",
+      "back": "Self-organization refers to the Development Team choosing how best to accomplish their work, rather than being directed by others outside the team. The team has autonomy to organize around their work and make decisions that help them meet the Sprint Goal.",
+      "category": "Scrum Values",
+      "difficulty": "hard"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-05-05",
+    "totalCards": 15,
+    "categories": ["Scrum Theory", "Scrum Roles", "Scrum Team", "Sprint", "Scrum Events", "Scrum Artifacts", "Scrum Values"],
+    "references": [
+      "The Scrum Guide (2020 version)",
+      "Professional Scrum Master learning objectives",
+      "Scrum.org assessment preparation materials"
+    ]
+  }
+}
