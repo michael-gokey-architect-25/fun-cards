@@ -1,0 +1,196 @@
+{
+  "title": "PSM 1 Certification Flashcards - Batch 4 (Cards 1-25)",
+  "description": "Comprehensive Scrum Flashcards covering Roles, Events, and Artifacts",
+  "cards": [
+    {
+      "id": 1,
+      "front": "Who is responsible for ensuring that impediments are visible and addressed?",
+      "back": "The Scrum Master.",
+      "category": "Scrum Master Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "front": "Can the Product Owner delegate work to Developers?",
+      "back": "No, they can clarify the \"what,\" but not assign \"how\" or \"who.\"",
+      "category": "Product Owner Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "front": "Who decides how work is accomplished within the Sprint?",
+      "back": "The Developers.",
+      "category": "Developer Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "front": "What should the Scrum Master do if management wants to assign tasks to the team?",
+      "back": "Educate management on Scrum principles and protect team autonomy.",
+      "category": "Scrum Master Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "front": "Can the Product Owner make changes during the Sprint?",
+      "back": "Only to the Product Backlog—not the Sprint Backlog.",
+      "category": "Product Owner Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "front": "Who is accountable for creating and clearly communicating Product Backlog items?",
+      "back": "The Product Owner.",
+      "category": "Product Owner Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "front": "Should the Scrum Master participate in Sprint Retrospectives?",
+      "back": "Yes, as a full member of the Scrum Team.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "front": "What is the Developers' responsibility regarding the Definition of Done?",
+      "back": "They must follow it for all work and help evolve it as needed.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "front": "Can Scrum Masters manage the team?",
+      "back": "No, they lead by influence and facilitation, not by authority.",
+      "category": "Scrum Master Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "front": "Can a Scrum Master coach stakeholders?",
+      "back": "Yes, it's part of promoting Scrum across the organization.",
+      "category": "Scrum Master Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "front": "When does the next Sprint begin?",
+      "back": "Immediately after the previous one ends.",
+      "category": "Sprint Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "front": "Can Sprint Planning be done asynchronously?",
+      "back": "Only if it supports full team collaboration and commitment.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "front": "Who creates the Sprint Goal?",
+      "back": "The entire Scrum Team collaboratively during Sprint Planning.",
+      "category": "Sprint Planning",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "front": "Can the Daily Scrum format vary?",
+      "back": "Yes, as long as it stays within 15 minutes and serves its purpose.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "front": "What if the Developers skip the Daily Scrum?",
+      "back": "It's a Scrum violation; the Scrum Master should coach them on its value.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "front": "Should all Sprint Review attendees be Scrum Team members?",
+      "back": "No, stakeholders should attend too.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "front": "Who runs the Sprint Retrospective?",
+      "back": "Typically the Scrum Master, but the Scrum Team owns the event.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "front": "What kind of feedback is shared in Sprint Review?",
+      "back": "Feedback on the product Increment and future direction.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "front": "What's a common anti-pattern in Sprint Planning?",
+      "back": "Overcommitting to work without team input.",
+      "category": "Sprint Planning",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "front": "Can Sprint events be skipped if the team feels confident?",
+      "back": "No, all five Scrum events are required.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 21,
+      "front": "Is the Sprint Goal an artifact?",
+      "back": "No, it's a commitment tied to the Sprint Backlog.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 22,
+      "front": "What is the main reason for using a Definition of Done?",
+      "back": "To ensure transparency about what \"done\" means.",
+      "category": "Scrum Artifacts",
+      "difficulty": "easy"
+    },
+    {
+      "id": 23,
+      "front": "Who ensures that the Product Backlog is refined?",
+      "back": "The Product Owner, with input from the Scrum Team.",
+      "category": "Product Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "front": "Can multiple Product Goals exist at one time?",
+      "back": "No, only one Product Goal exists at a time.",
+      "category": "Product Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 25,
+      "front": "Is the Product Goal time-boxed?",
+      "back": "No, but it should be achievable and clear.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2024-05-12",
+    "totalCards": 50,
+    "categories": [
+      "Scrum Master Role",
+      "Product Owner Role",
+      "Developer Role",
+      "Scrum Events",
+      "Sprint Management",
+      "Sprint Planning",
+      "Scrum Artifacts",
+      "Product Backlog"
+    ]
+  }
+}

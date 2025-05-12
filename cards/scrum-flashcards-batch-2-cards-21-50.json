@@ -1,0 +1,233 @@
+{
+  "title": "PSM 1 Certification Flashcards - Batch 2 (Cards 21-50)",
+  "description": "Advanced Scrum Concepts Flashcards for Professional Scrum Master (PSM 1) Certification - Continuation",
+  "cards": [
+    {
+      "id": 21,
+      "front": "What happens if the Daily Scrum reveals new work is needed to achieve the Sprint Goal?",
+      "back": "The Developers add the new work to the Sprint Backlog, potentially removing other work of equal size to maintain focus and respect their capacity.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 22,
+      "front": "What activities typically occur during Product Backlog refinement?",
+      "back": "Breaking down large items, adding details, estimating, ordering, clarifying acceptance criteria, removing outdated items, and ensuring upcoming items are ready for selection in future Sprints.",
+      "category": "Product Backlog",
+      "difficulty": "hard"
+    },
+    {
+      "id": 23,
+      "front": "What should happen if a Sprint Retrospective action item isn't completed by the next Retrospective?",
+      "back": "The team should inspect why it wasn't completed, adapt their approach, potentially add it to the next Sprint Backlog as a prioritized item, or reconsider its importance and possibly drop it.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 24,
+      "front": "How are Sprint Review outcomes incorporated into future work?",
+      "back": "Feedback from stakeholders and information about marketplace changes are considered when updating the Product Backlog, which influences future Sprint Planning sessions.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "front": "What should happen during a Sprint if the Developers realize the Sprint Goal cannot be achieved?",
+      "back": "The Developers should collaborate with the Product Owner as soon as possible to discuss the situation. Options include re-scoping the work while preserving the Sprint Goal or, in extreme cases, the Product Owner may cancel the Sprint.",
+      "category": "Sprint Management",
+      "difficulty": "hard"
+    },
+    {
+      "id": 26,
+      "front": "How does transparency relate to inspection and adaptation in Scrum?",
+      "back": "Transparency creates a shared understanding of facts, which enables meaningful inspection of results and work processes, which in turn leads to appropriate adaptations to optimize value and reduce risk.",
+      "category": "Scrum Framework",
+      "difficulty": "hard"
+    },
+    {
+      "id": 27,
+      "front": "How can a Scrum Team increase transparency of their work?",
+      "back": "Through a clear Definition of Done, visible information radiators (boards, burndown charts), open communication in events, detailed acceptance criteria, regular stakeholder engagement, and shared understanding of quality standards.",
+      "category": "Scrum Framework",
+      "difficulty": "medium"
+    },
+    {
+      "id": 28,
+      "front": "What is meant by \"Done\" in Scrum?",
+      "back": "\"Done\" means the work meets all the quality standards required for the product as defined in the Definition of Done, making the Increment potentially releasable.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 29,
+      "front": "Why is it important that Increments are \"potentially releasable\"?",
+      "back": "It ensures that each Sprint delivers actual value, reduces risk by having working software, provides options to release when needed, and facilitates accurate feedback from stakeholders.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "front": "How does timeboxing events help with empiricism?",
+      "back": "Timeboxing creates regular inspection and adaptation points, limits waste, focuses discussions, creates a rhythm for the team, and ensures that the time dedicated to planning is proportionate to the length of the Sprint.",
+      "category": "Scrum Framework",
+      "difficulty": "hard"
+    },
+    {
+      "id": 31,
+      "front": "What is the recommended approach when multiple teams work on the same product?",
+      "back": "All teams should share one Product Backlog, one Product Owner, and one Definition of Done, while coordinating dependencies and integrating their Increments regularly.",
+      "category": "Scaling Scrum",
+      "difficulty": "hard"
+    },
+    {
+      "id": 32,
+      "front": "What techniques can be used when multiple Scrum Teams work on the same product?",
+      "back": "Scrum of Scrums (representatives from each team meet regularly), joint events, shared backlogs, coordinated Sprint schedules, integration teams, communities of practice, and regular alignment on architecture.",
+      "category": "Scaling Scrum",
+      "difficulty": "hard"
+    },
+    {
+      "id": 33,
+      "front": "What is the purpose of a Definition of Done when scaling Scrum?",
+      "back": "A shared Definition of Done ensures consistency in quality across all teams working on the product, enables integration of work from multiple teams, and creates transparency about what \"complete\" means.",
+      "category": "Scaling Scrum",
+      "difficulty": "medium"
+    },
+    {
+      "id": 34,
+      "front": "How should dependencies between multiple Scrum Teams be handled?",
+      "back": "Through regular coordination meetings, visible dependency management, aligned Sprint schedules, proactive communication, architectural guidelines, and cross-team planning sessions.",
+      "category": "Scaling Scrum",
+      "difficulty": "hard"
+    },
+    {
+      "id": 35,
+      "front": "What is the role of the Product Owner when multiple teams work on one product?",
+      "back": "To maintain a single Product Backlog, ensure a unified product vision, make prioritization decisions across all teams, and coordinate with all teams while remaining the single decision-maker for product direction.",
+      "category": "Product Owner Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 36,
+      "front": "What is the purpose of estimating Product Backlog items?",
+      "back": "Estimates help with forecasting, provide a sense of size and complexity for prioritization, highlight potential risks or unknowns, and aid in Sprint Planning decisions.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 37,
+      "front": "What is a typical format for a Product Backlog item?",
+      "back": "While formats vary, common elements include a description (often as a user story), acceptance criteria, size estimate, value indication, and dependencies or notes. User stories often follow the format \"As a [user], I want [capability] so that [benefit]\".",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 38,
+      "front": "How often should Product Backlog refinement occur?",
+      "back": "Refinement is ongoing and typically consumes no more than 10% of the Developers' capacity. Teams often hold dedicated refinement sessions in addition to continuous refinement.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 39,
+      "front": "How detailed should Product Backlog items be?",
+      "back": "Items near the top (likely to be selected in the upcoming Sprint) should be small and detailed enough to be completed in one Sprint. Items further down can be larger and less detailed.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 40,
+      "front": "Who participates in Product Backlog refinement?",
+      "back": "The Scrum Team (Product Owner, Scrum Master, and Developers) participates, with the Product Owner having decision authority on content and ordering. Subject matter experts or stakeholders may be invited when needed.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 41,
+      "front": "How does the concept of \"velocity\" relate to Sprint Planning?",
+      "back": "Velocity—the average amount of work completed in previous Sprints—can be used as a reference for forecasting how much work can be accomplished in the upcoming Sprint, helping make realistic commitments.",
+      "category": "Sprint Planning",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "front": "What factors should Developers consider when selecting Product Backlog items for a Sprint?",
+      "back": "Their capacity, the complexity and size of items, the Definition of Done requirements, past performance (velocity), dependencies, the Sprint Goal, and technical considerations.",
+      "category": "Sprint Planning",
+      "difficulty": "hard"
+    },
+    {
+      "id": 43,
+      "front": "What is the difference between commitment and forecast in Scrum?",
+      "back": "The Developers commit to the Sprint Goal (the objective) but forecast the specific Product Backlog items they believe they can complete. The forecast may change as more is learned during the Sprint.",
+      "category": "Sprint Planning",
+      "difficulty": "hard"
+    },
+    {
+      "id": 44,
+      "front": "How should a team handle a situation when stakeholders pressure them to take more work than their capacity?",
+      "back": "The Scrum Team should maintain transparency about their capacity, explain the negative impacts of overcommitment on quality and sustainability, use data from past Sprints to forecast realistically, and potentially negotiate scope or requirements.",
+      "category": "Sprint Planning",
+      "difficulty": "hard"
+    },
+    {
+      "id": 45,
+      "front": "What is the relationship between the Sprint Goal and selected Product Backlog items?",
+      "back": "The Sprint Goal provides coherence and purpose to the selected items. If some items prove harder than expected, the Developers can negotiate with the Product Owner about the scope of selected items while still preserving the Sprint Goal.",
+      "category": "Sprint Planning",
+      "difficulty": "medium"
+    },
+    {
+      "id": 46,
+      "front": "How does the Scrum value of \"Focus\" manifest in daily work?",
+      "back": "Through concentrating on the Sprint Goal, limiting work in progress, minimizing multitasking, protecting the team from external disruptions, and dedicating efforts to completing work rather than starting new work.",
+      "category": "Scrum Values",
+      "difficulty": "medium"
+    },
+    {
+      "id": 47,
+      "front": "How does the Scrum value of \"Openness\" impact team performance?",
+      "back": "By creating transparency about challenges and progress, welcoming diverse perspectives, honestly discussing impediments, sharing knowledge freely, and being receptive to feedback from all sources.",
+      "category": "Scrum Values",
+      "difficulty": "medium"
+    },
+    {
+      "id": 48,
+      "front": "What role does psychological safety play in Scrum Teams?",
+      "back": "Psychological safety allows team members to speak up about concerns, take risks, admit mistakes, ask for help, challenge ideas constructively, and participate fully in continuous improvement.",
+      "category": "Team Dynamics",
+      "difficulty": "hard"
+    },
+    {
+      "id": 49,
+      "front": "How can a team balance individual accountability with collective responsibility?",
+      "back": "By recognizing that while individual team members complete specific tasks, the entire team owns the delivery of the Increment, supporting each other, swarming on problems, sharing knowledge, and collectively committing to the Sprint Goal.",
+      "category": "Team Dynamics",
+      "difficulty": "hard"
+    },
+    {
+      "id": 50,
+      "front": "How do Scrum Teams evolve through the stages of team development?",
+      "back": "They typically progress through forming (orientation), storming (conflict), norming (establishing practices), and performing (high productivity) stages. The Scrum framework provides structure through this evolution with regular events, clear accountabilities, and guided empiricism.",
+      "category": "Team Dynamics",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2024-05-12",
+    "totalCards": 50,
+    "categories": [
+      "Scrum Events",
+      "Product Backlog",
+      "Sprint Management",
+      "Scrum Framework",
+      "Scrum Artifacts",
+      "Scaling Scrum",
+      "Product Owner Role",
+      "Sprint Planning",
+      "Scrum Values",
+      "Team Dynamics"
+    ]
+  }
+}

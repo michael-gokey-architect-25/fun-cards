@@ -1,0 +1,197 @@
+{
+  "title": "Scrum Flashcards: Artifacts, Misconceptions, and Exam Prep",
+  "description": "Flashcards covering Scrum artifacts, common misconceptions, and Professional Scrum Master (PSM) exam preparation",
+  "cards": [
+    {
+      "id": 26,
+      "front": "What happens to partially done work?",
+      "back": "It's not included in the Increment and returns to the Product Backlog.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 27,
+      "front": "Can the Definition of Done differ by team?",
+      "back": "Yes, but it should be consistent within a team.",
+      "category": "Scrum Artifacts",
+      "difficulty": "easy"
+    },
+    {
+      "id": 28,
+      "front": "Can the Product Backlog be empty?",
+      "back": "Technically yes, but it would suggest no future work or unclear vision.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 29,
+      "front": "Who creates Product Backlog items?",
+      "back": "Anyone can suggest them, but the Product Owner manages them.",
+      "category": "Product Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 30,
+      "front": "What's the benefit of having a visible Sprint Backlog?",
+      "back": "Transparency for tracking daily progress toward the Sprint Goal.",
+      "category": "Sprint Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 31,
+      "front": "Can Scrum be used in non-software projects?",
+      "back": "Yes, it's a general-purpose framework.",
+      "category": "Scrum Fundamentals",
+      "difficulty": "easy"
+    },
+    {
+      "id": 32,
+      "front": "Is burndown chart required in Scrum?",
+      "back": "No, it's optional and not part of the core Scrum Guide.",
+      "category": "Scrum Tools",
+      "difficulty": "easy"
+    },
+    {
+      "id": 33,
+      "front": "Is Scrum predictive or adaptive?",
+      "back": "Adaptive; it's based on empiricism.",
+      "category": "Scrum Fundamentals",
+      "difficulty": "medium"
+    },
+    {
+      "id": 34,
+      "front": "Can multiple Scrum Teams share one Product Backlog?",
+      "back": "Yes, for the same product.",
+      "category": "Scrum Team",
+      "difficulty": "easy"
+    },
+    {
+      "id": 35,
+      "front": "Is the Scrum Master a project manager?",
+      "back": "No, their role is to support Scrum implementation and team growth.",
+      "category": "Scrum Roles",
+      "difficulty": "easy"
+    },
+    {
+      "id": 36,
+      "front": "Can the team change the Sprint Goal mid-Sprint?",
+      "back": "Only if the Sprint is canceled.",
+      "category": "Sprint",
+      "difficulty": "medium"
+    },
+    {
+      "id": 37,
+      "front": "Can a Definition of Done include regulatory requirements?",
+      "back": "Yes, and it should.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 38,
+      "front": "Who's responsible for ROI in Scrum?",
+      "back": "The Product Owner.",
+      "category": "Scrum Roles",
+      "difficulty": "easy"
+    },
+    {
+      "id": 39,
+      "front": "Can Scrum be combined with Kanban?",
+      "back": "Yes, it's called Scrum with Kanban (or Scrumban).",
+      "category": "Scrum Fundamentals",
+      "difficulty": "medium"
+    },
+    {
+      "id": 40,
+      "front": "Should Product Backlog items be estimated?",
+      "back": "Estimation is common but not required by Scrum itself.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 41,
+      "front": "What mindset does Scrum encourage in teams?",
+      "back": "Empirical, cross-functional, and self-managing.",
+      "category": "Scrum Fundamentals",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "front": "What should you do if you don't understand a question on the PSM exam?",
+      "back": "Flag it and return later—don't waste too much time.",
+      "category": "Exam Preparation",
+      "difficulty": "medium"
+    },
+    {
+      "id": 43,
+      "front": "How should you approach tricky \"select all that apply\" questions?",
+      "back": "Only select answers that are fully correct and supported by the Scrum Guide.",
+      "category": "Exam Preparation",
+      "difficulty": "hard"
+    },
+    {
+      "id": 44,
+      "front": "What's the best way to prepare for PSM I?",
+      "back": "Study the Scrum Guide, take practice exams, and understand real-world application.",
+      "category": "Exam Preparation",
+      "difficulty": "medium"
+    },
+    {
+      "id": 45,
+      "front": "Is there partial credit for multi-select answers on the PSM I?",
+      "back": "No, you must select all correct answers to get credit.",
+      "category": "Exam Preparation",
+      "difficulty": "easy"
+    },
+    {
+      "id": 46,
+      "front": "How many questions are on the PSM I exam?",
+      "back": "80 questions.",
+      "category": "Exam Preparation",
+      "difficulty": "easy"
+    },
+    {
+      "id": 47,
+      "front": "What's the passing score for PSM I?",
+      "back": "85%.",
+      "category": "Exam Preparation",
+      "difficulty": "easy"
+    },
+    {
+      "id": 48,
+      "front": "How long is the PSM I exam?",
+      "back": "60 minutes.",
+      "category": "Exam Preparation",
+      "difficulty": "easy"
+    },
+    {
+      "id": 49,
+      "front": "Is the PSM I exam open book?",
+      "back": "No, it's a closed-book assessment.",
+      "category": "Exam Preparation",
+      "difficulty": "easy"
+    },
+    {
+      "id": 50,
+      "front": "Should you memorize the Scrum Guide word for word?",
+      "back": "Not necessarily, but understand it deeply—concepts matter more than wording.",
+      "category": "Exam Preparation",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-05-12",
+    "totalCards": 25,
+    "categories": [
+      "Scrum Artifacts",
+      "Product Backlog",
+      "Sprint Backlog",
+      "Scrum Fundamentals",
+      "Scrum Tools",
+      "Scrum Team",
+      "Scrum Roles",
+      "Sprint",
+      "Exam Preparation"
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "title": "PSM 1 Certification Flashcards - Batch 3 (Cards 21-50)",
+  "description": "Comprehensive Scrum Framework Flashcards covering Roles, Events, Artifacts, and Exam Tips",
+  "cards": [
+    {
+      "id": 21,
+      "front": "Who is accountable for maximizing product value?",
+      "back": "The Product Owner.",
+      "category": "Product Owner Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 22,
+      "front": "Who ensures Scrum is understood and enacted?",
+      "back": "The Scrum Master.",
+      "category": "Scrum Master Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 23,
+      "front": "Who is responsible for turning Product Backlog items into Increments?",
+      "back": "The Developers.",
+      "category": "Developer Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "front": "Can the Scrum Master assign tasks to Developers?",
+      "back": "No, Developers are self-managing.",
+      "category": "Scrum Master Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "front": "Who decides what work will be done in the Sprint?",
+      "back": "Developers select items from the Product Backlog during Sprint Planning.",
+      "category": "Sprint Planning",
+      "difficulty": "medium"
+    },
+    {
+      "id": 26,
+      "front": "Can the Product Owner change the Sprint Backlog?",
+      "back": "No, only Developers can change it.",
+      "category": "Sprint Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 27,
+      "front": "Who creates the Definition of Done?",
+      "back": "The Scrum Team.",
+      "category": "Scrum Artifacts",
+      "difficulty": "easy"
+    },
+    {
+      "id": 28,
+      "front": "What is the role of stakeholders in Scrum?",
+      "back": "Provide feedback and collaborate during the Sprint Review.",
+      "category": "Stakeholder Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": 29,
+      "front": "Can one person be both Product Owner and Scrum Master?",
+      "back": "It's not recommended; these are separate accountabilities.",
+      "category": "Scrum Roles",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "front": "Who ensures the Product Backlog is visible and transparent?",
+      "back": "The Product Owner.",
+      "category": "Product Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 31,
+      "front": "What are the three Scrum Artifacts?",
+      "back": "Product Backlog, Sprint Backlog, and Increment.",
+      "category": "Scrum Artifacts",
+      "difficulty": "easy"
+    },
+    {
+      "id": 32,
+      "front": "What is the commitment associated with the Product Backlog?",
+      "back": "The Product Goal.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 33,
+      "front": "What is the commitment for the Sprint Backlog?",
+      "back": "The Sprint Goal.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 34,
+      "front": "What is the commitment for the Increment?",
+      "back": "The Definition of Done.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 35,
+      "front": "What is the Definition of Done?",
+      "back": "A shared understanding of what it means for work to be complete.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 36,
+      "front": "Can the Product Backlog be changed after Sprint Planning?",
+      "back": "Yes, it's a living artifact that evolves.",
+      "category": "Product Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 37,
+      "front": "What does the Sprint Backlog contain?",
+      "back": "Selected Product Backlog items, the Sprint Goal, and a plan for delivery.",
+      "category": "Sprint Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 38,
+      "front": "Who manages the Sprint Backlog?",
+      "back": "The Developers.",
+      "category": "Sprint Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 39,
+      "front": "What is a Product Goal?",
+      "back": "The long-term objective for the Scrum Team.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 40,
+      "front": "How often is the Product Backlog refined?",
+      "back": "Continuously, as needed.",
+      "category": "Product Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 41,
+      "front": "Is Scrum a methodology?",
+      "back": "No, it's a framework.",
+      "category": "Scrum Framework",
+      "difficulty": "easy"
+    },
+    {
+      "id": 42,
+      "front": "What kind of process control does Scrum use?",
+      "back": "Empirical process control.",
+      "category": "Scrum Framework",
+      "difficulty": "medium"
+    },
+    {
+      "id": 43,
+      "front": "What happens if work doesn't meet the Definition of Done?",
+      "back": "It cannot be released or counted as part of the Increment.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 44,
+      "front": "What's the primary measure of progress in Scrum?",
+      "back": "Working, usable software.",
+      "category": "Scrum Framework",
+      "difficulty": "easy"
+    },
+    {
+      "id": 45,
+      "front": "Should the Scrum Master remove all impediments?",
+      "back": "The Scrum Master helps the team remove them, but does not do all the work.",
+      "category": "Scrum Master Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 46,
+      "front": "What happens if the Product Owner is unavailable?",
+      "back": "The Scrum Team may be blocked; it's crucial to have a dedicated and available PO.",
+      "category": "Product Owner Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 47,
+      "front": "Can new work be added to a Sprint once it starts?",
+      "back": "Only if Developers agree and it doesn't compromise the Sprint Goal.",
+      "category": "Sprint Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": 48,
+      "front": "What if the team can't complete all Sprint Backlog items?",
+      "back": "The incomplete items return to the Product Backlog for future consideration.",
+      "category": "Sprint Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": 49,
+      "front": "Should the Scrum Master attend the Daily Scrum?",
+      "back": "They can, but it's primarily for the Developers.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 50,
+      "front": "Is velocity a required metric in Scrum?",
+      "back": "No, Scrum doesn't prescribe velocity; teams may choose to track it.",
+      "category": "Scrum Framework",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2024-05-12",
+    "totalCards": 50,
+    "categories": [
+      "Product Owner Role",
+      "Scrum Master Role",
+      "Developer Role",
+      "Sprint Planning",
+      "Sprint Backlog",
+      "Scrum Artifacts",
+      "Stakeholder Management",
+      "Scrum Roles",
+      "Product Backlog",
+      "Scrum Framework",
+      "Sprint Management",
+      "Scrum Events"
+    ]
+  }
+}

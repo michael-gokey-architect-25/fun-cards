@@ -1,0 +1,159 @@
+{
+  "title": "PSM 1 Certification Flashcards - Batch 2",
+  "description": "Advanced Scrum Concepts Flashcards for Professional Scrum Master (PSM 1) Certification",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What happens if the Developers cannot complete all Sprint Backlog items by the end of a Sprint?",
+      "back": "Incomplete items are returned to the Product Backlog and re-estimated. The Sprint ends on its scheduled end date regardless of whether all items are completed.",
+      "category": "Sprint Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "front": "When should the Developers change the Sprint Backlog?",
+      "back": "Whenever they learn more about the work needed to achieve the Sprint Goal. The Sprint Backlog is updated throughout the Sprint as work is performed and more is learned.",
+      "category": "Sprint Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "front": "Who determines when a Product Backlog item has enough detail to be selected for a Sprint?",
+      "back": "The Developers. Only they can assess their own capacity and determine what they can accomplish in the upcoming Sprint.",
+      "category": "Product Backlog",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "front": "What is the relationship between Sprint length and risk?",
+      "back": "Shorter Sprints limit risk to the cost of one calendar month or less and allow for more learning cycles and more frequent inspection and adaptation.",
+      "category": "Sprint Management",
+      "difficulty": "hard"
+    },
+    {
+      "id": 5,
+      "front": "What is a Sprint Goal?",
+      "back": "The Sprint Goal is a single objective for the Sprint that provides focus and coherence, gives the Developers flexibility regarding the exact work needed, and helps explain why the team is building the Increment.",
+      "category": "Sprint Planning",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "front": "How might a Scrum Master help the organization in applying empiricism?",
+      "back": "By leading the organization in the adoption of Scrum, planning Scrum implementations, helping employees understand empirical approaches for complex work, and removing barriers between stakeholders and Scrum Teams.",
+      "category": "Scrum Master Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 7,
+      "front": "What is the significance of the Scrum Master being a \"servant-leader\"?",
+      "back": "As servant-leaders, Scrum Masters serve the Scrum Team and the larger organization rather than acting as traditional managers. They lead by supporting others, removing impediments, facilitating events, and coaching in self-management and cross-functionality.",
+      "category": "Scrum Master Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "front": "How does a Scrum Master help with improving organizational effectiveness?",
+      "back": "By helping everyone understand and enact Scrum theory and practices, facilitating stakeholder collaboration, causing the removal of impediments, and leading organizational change to increase productivity.",
+      "category": "Scrum Master Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "front": "What techniques might a Scrum Master use to help a team remove impediments?",
+      "back": "Coaching the team to solve problems themselves, actively listening to identify root causes, creating transparency around issues, escalating systemic problems to appropriate management, and facilitating organizational change.",
+      "category": "Scrum Master Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "front": "How should a Scrum Master handle conflicts within the Scrum Team?",
+      "back": "By creating a safe environment for discussion, helping team members understand different perspectives, focusing on Scrum values, facilitating conflict resolution, and maintaining neutrality while guiding the team toward self-management.",
+      "category": "Scrum Master Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 11,
+      "front": "How does the Product Owner ensure the Product Backlog is transparent?",
+      "back": "By clearly expressing Product Backlog items, ordering items based on value, ensuring visibility and understanding of where the product is heading, and making sure the Product Backlog is accessible to all stakeholders.",
+      "category": "Product Owner Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "front": "What techniques can Product Owners use to order the Product Backlog?",
+      "back": "Value (ROI), risk, dependencies, urgency, customer preference, cost of delay, learning value, new knowledge, compliance requirements, and strategic alignment.",
+      "category": "Product Owner Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "front": "What is the relationship between the Product Owner and stakeholders?",
+      "back": "The Product Owner represents stakeholders' interests by optimizing the value delivered by the Scrum Team. They maintain the Product Backlog based on stakeholder input but make the final decisions about prioritization and content.",
+      "category": "Product Owner Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "front": "How can a Product Owner measure value?",
+      "back": "Through metrics like revenue generated, cost reduction, customer satisfaction, market share, adoption rates, user engagement, reduced time-to-market, customer retention, and other business key performance indicators (KPIs).",
+      "category": "Product Owner Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "front": "What is the Product Owner's role in Sprint Retrospectives?",
+      "back": "The Product Owner participates as a Scrum Team member, inspecting how the last Sprint went and identifying improvements for processes, relationships, and tools that affect product development.",
+      "category": "Product Owner Role",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "front": "How do Developers demonstrate accountability in Scrum?",
+      "back": "By adhering to the Definition of Done, collaboratively planning their work, adapting their plan daily toward the Sprint Goal, holding each other accountable as professionals, and creating a valuable Increment each Sprint.",
+      "category": "Developer Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "front": "What techniques can Developers use during refinement to get ready for Sprint Planning?",
+      "back": "Breaking down large items, discussing acceptance criteria, estimating work, identifying dependencies, understanding technical implications, clarifying requirements with the Product Owner, and addressing unknowns.",
+      "category": "Developer Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 18,
+      "front": "How should Developers address technical debt?",
+      "back": "By making it visible, including necessary refactoring in their Definition of Done, balancing new feature development with technical improvement, and collaborating with the Product Owner to prioritize critical technical work.",
+      "category": "Developer Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "front": "What is the importance of the Developers being cross-functional?",
+      "back": "Cross-functionality enables the team to create a valuable Increment in each Sprint without external dependencies, increases flexibility, promotes knowledge sharing, reduces bottlenecks, and improves team resilience.",
+      "category": "Developer Role",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "front": "What happens when the Developers realize they have more work than capacity during a Sprint?",
+      "back": "They collaborate with the Product Owner to re-scope the work while preserving the Sprint Goal, potentially removing some Sprint Backlog items or simplifying work while still delivering a valuable Increment.",
+      "category": "Sprint Management",
+      "difficulty": "medium"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2024-05-12",
+    "totalCards": 50,
+    "categories": [
+      "Sprint Management",
+      "Sprint Backlog",
+      "Product Backlog",
+      "Scrum Master Role",
+      "Product Owner Role",
+      "Developer Role"
+    ]
+  }
+}

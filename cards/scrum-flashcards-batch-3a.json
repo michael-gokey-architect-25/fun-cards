@@ -1,0 +1,160 @@
+{
+  "title": "PSM 1 Certification Flashcards - Batch 3",
+  "description": "Comprehensive Scrum Framework Flashcards covering Roles, Events, Artifacts, and Exam Tips",
+  "cards": [
+    {
+      "id": 1,
+      "front": "What are the three pillars of Scrum?",
+      "back": "Transparency, Inspection, and Adaptation.",
+      "category": "Scrum Framework",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "front": "How many roles are defined in Scrum?",
+      "back": "Three – Scrum Master, Product Owner, and Developers.",
+      "category": "Scrum Roles",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "front": "What is the maximum length of a Sprint?",
+      "back": "One calendar month.",
+      "category": "Sprint Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "front": "What is the purpose of a Sprint?",
+      "back": "To create a usable, potentially releasable Increment.",
+      "category": "Sprint Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "front": "Can the scope of work change during a Sprint?",
+      "back": "Yes, scope may be clarified and renegotiated between the Product Owner and Developers.",
+      "category": "Sprint Management",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "front": "Who owns the Product Backlog?",
+      "back": "The Product Owner.",
+      "category": "Product Backlog",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "front": "What is an Increment?",
+      "back": "The sum of all completed Product Backlog Items during a Sprint and previous Sprints, meeting the Definition of Done.",
+      "category": "Scrum Artifacts",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "front": "What is the time-box for the Sprint Planning meeting?",
+      "back": "8 hours for a one-month Sprint (shorter for shorter Sprints).",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "front": "What is the Scrum Master responsible for?",
+      "back": "Promoting and supporting Scrum by helping everyone understand Scrum theory, practices, rules, and values.",
+      "category": "Scrum Master Role",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "front": "What is the Daily Scrum's purpose?",
+      "back": "To inspect progress toward the Sprint Goal and adapt the plan to achieve it.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "front": "Who facilitates the Sprint Planning meeting?",
+      "back": "The Scrum Team collaboratively; the Scrum Master ensures it takes place.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "front": "Who can cancel a Sprint?",
+      "back": "Only the Product Owner.",
+      "category": "Sprint Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "front": "When should the Sprint Review be held?",
+      "back": "At the end of the Sprint, before the Sprint Retrospective.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "front": "What is the purpose of the Sprint Retrospective?",
+      "back": "To plan ways to increase quality and effectiveness.",
+      "category": "Scrum Events",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "front": "How long is the Daily Scrum?",
+      "back": "15 minutes or less.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "front": "Can stakeholders attend the Sprint Review?",
+      "back": "Yes, it's the main opportunity for stakeholder inspection and feedback.",
+      "category": "Scrum Events",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "front": "Is the Sprint itself a time-boxed event?",
+      "back": "Yes, typically one month or less.",
+      "category": "Sprint Management",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "front": "What is the purpose of time-boxing?",
+      "back": "To create focus and predictability.",
+      "category": "Scrum Framework",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "front": "Can the Scrum Master be part of the Developers?",
+      "back": "Yes, as long as they fulfill their Scrum Master responsibilities.",
+      "category": "Scrum Roles",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "front": "Is a Sprint Goal required?",
+      "back": "Yes, it provides focus and guidance for the Sprint.",
+      "category": "Sprint Management",
+      "difficulty": "easy"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2024-05-12",
+    "totalCards": 50,
+    "categories": [
+      "Scrum Framework",
+      "Scrum Roles",
+      "Sprint Management",
+      "Product Backlog",
+      "Scrum Artifacts",
+      "Scrum Events",
+      "Scrum Master Role"
+    ]
+  }
+}
